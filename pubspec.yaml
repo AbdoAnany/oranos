@@ -1,0 +1,38 @@
+name: tatware_task_oranos
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.6 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  persistent_bottom_nav_bar_v2: ^4.2.5
+  cupertino_icons: ^1.0.2
+  flutter_bloc:
+  animate_do:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+   #     - asset: assets/fonts/Poppins/Poppins-Bold.ttf
