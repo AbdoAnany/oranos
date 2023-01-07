@@ -3,7 +3,7 @@
 
 
 ## Getting Started
-<img src="screenshot/Logo.png" height="300em" />     <img src="screenshot/s1.PNG" height="300em" />   <img src="screenshot/s2.PNG" height="300em" />  <img src="screenshot/s3.PNG" height="300em" />   <img src="screenshot/s4.PNG" height="300em" /> 
+<img src="screenshot/Logo.png" height="300em" />     <img src="screenshot/s1.png" height="300em" />   <img src="screenshot/s2.png" height="300em" />  <img src="screenshot/s3.png" height="300em" />   <img src="screenshot/s4.png" height="300em" /> 
 
 This project is a starting point for a Flutter application.
 
@@ -24,7 +24,3 @@ samples, guidance on mobile development, and a full API reference.
   animate_do:
  
 ````
-### Screenshots
-
-<img src="screenshot/s1.PNG" height="300em" /> <img src="screenshot/s2.PNG" height="300em" /><img src="screenshot/s3.PNG" height="300em" />
-  <img src="screenshot/s4.PNG" height="300em" /> 
